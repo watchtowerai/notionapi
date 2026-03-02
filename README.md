@@ -1,5 +1,16 @@
 # notionapi
 
+## Service Metadata
+
+| Key                             | Value                          |
+|---------------------------------|--------------------------------|
+| **TEAM**                        | Team Name                      |
+| **TEAM-MANAGER-EMAIL**          | amit@nightfall.ai                     |
+| **SLACK-DEPLOY-NOTIFY-CHANNEL** | #deploy-notifications-channel  |
+| **SLACK-TEAM-CHANNEL**          | #team-slack-channel            |
+| **TEAM-LINEAR-SLUG**            | DTE                 |
+
+
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/jomei/notionapi?label=go%20module)](https://github.com/jomei/notionapi/tags)
 [![Go Reference](https://pkg.go.dev/badge/github.com/jomei/notionapi.svg)](https://pkg.go.dev/github.com/jomei/notionapi)
 [![Test](https://github.com/jomei/notionapi/actions/workflows/test.yml/badge.svg)](https://github.com/jomei/notionapi/actions/workflows/test.yml)
