@@ -4,12 +4,10 @@
 
 | Key                             | Value                          |
 |---------------------------------|--------------------------------|
-| **TEAM**                        | Team Name                      |
-| **TEAM-MANAGER-EMAIL**          | amit@nightfall.ai                     |
-| **SLACK-DEPLOY-NOTIFY-CHANNEL** | #deploy-notifications-channel  |
-| **SLACK-TEAM-CHANNEL**          | #team-slack-channel            |
-| **TEAM-LINEAR-SLUG**            | DTE                 |
-
+| **TEAM**                        | Detection                      |
+| **TEAM-MANAGER-EMAIL**          | amit@nightfall.ai              |
+| **SLACK-TEAM-CHANNEL**          | #team-detection                |
+| **TEAM-LINEAR-SLUG**            | DTE                            |
 
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/jomei/notionapi?label=go%20module)](https://github.com/jomei/notionapi/tags)
 [![Go Reference](https://pkg.go.dev/badge/github.com/jomei/notionapi.svg)](https://pkg.go.dev/github.com/jomei/notionapi)
